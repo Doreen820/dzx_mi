@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
 <meta charset="UTF-8"/>
-<title>小米商城-小米手机、红米Note、小米笔记本、小米电视正品专卖官方网站</title>
+<title>小米商城-小米手机、红米Note、小米笔记本、小米电视正品专卖官方网站(测试使用)</title>
 <meta name="description" content="小米商城直营小米公司旗下所有产品，囊括小米手机系列小米Max、小米5，红米手机系列红米Pro、红米Note、红米3S，智能硬件，配件及小米生活周边，同时提供小米客户服务及售后支持。"/>
 <meta name="keywords" content="小米,小米官网,红米官网,小米手机,小米商城"/>
 <meta name="viewport" content="width=1226"/>
